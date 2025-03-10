@@ -7,3 +7,7 @@ Feature:
 Feature 1: The user will get a random classical dad-joke upon click of a button.
 
 Feature 2: The filter option on the application will help the user to select the cringe-level of the joke.
+
+cloudflare link for Assignment | ASAP Project - Deploying Front-end
+
+https://asap-6s0.pages.dev/
