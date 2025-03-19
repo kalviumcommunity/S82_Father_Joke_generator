@@ -1,6 +1,6 @@
 const express = require("express");
 const router = express.Router();
-const ObjectModel = require("./Client/schema"); 
+const ObjectModel = require("./schema"); 
 
 
 router.get("/", (req, res) => {
